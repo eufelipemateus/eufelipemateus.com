@@ -31,7 +31,7 @@ body{
 .foto_img {
     max-width: 100px;
     border-radius: 100%;
-    border: 5px solid  #4287f5;
+    border: 5px solid #4287f5;
 }
 
 
@@ -74,13 +74,13 @@ body{
 
 .footer{
     padding-top: 20px;
-    color: #4287f5;
+    color: #C8D7FE;
     font-family: 'Fira Code', monospace;
     font-size: 0.7rem;
 }
 
 .footer a , 
 .footer a:hover{
-    color: #4287f5;
+    color: #C8D7FE;
     text-decoration: none;
 }

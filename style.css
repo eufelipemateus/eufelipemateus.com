@@ -60,7 +60,7 @@ body{
     align-items: center;
     text-decoration: none;
     color: white;
-    transition-duration: 0.7s;
+    /*transition-duration: 0.7s; */
     font-size: 1rem;
     font-family: 'Fira Code', monospace;
 

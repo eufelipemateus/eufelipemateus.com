@@ -88,6 +88,13 @@ body{
     margin-bottom: 12px;
 }
 
+.content-section h3 {
+    color: #eef3fb;
+    font-size: 1rem;
+    line-height: 1.4;
+    margin-top: 24px;
+}
+
 .content-section p + p {
     margin-top: 12px;
 }
@@ -125,6 +132,11 @@ body{
 .project-list span {
     color: #cbd6e3;
 }
+
+.project-list .url-text {
+    font-size: 0.9rem;
+}
+
 .container_enlaces {
     display: flex;
     align-items: center;
